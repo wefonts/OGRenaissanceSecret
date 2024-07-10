@@ -7,5 +7,9 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OGRenaissanceSecret/OGRenaissanceSecret.woff") format("woff"),
          url("https://cdn.jsdelivr.net/gh/wefonts/OGRenaissanceSecret/OGRenaissanceSecret.ttf") format("truetype");
     font-display: swap;
-}  
+}
+
+.OGRenaissanceSecret {
+    font-family: "OGRenaissanceSecret";
+}
 </pre>
